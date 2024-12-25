@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Pepegov",
+    "classifications": [ "Common", "Console" ],
+    "identity": "Template.Net.TelegramBot",
+    "name": "Telegram Bot Template",
+    "shortName": "telegrambottemplate",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "sourceName": "Template.Net.TelegramBot",
+    "preferNameDirectory": true
+}
